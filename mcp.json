@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlite_store": {
+      "command": "python",
+      "args": [
+        "mcp/sqlite_store_server.py"
+      ]
+    }
+  }
+}
